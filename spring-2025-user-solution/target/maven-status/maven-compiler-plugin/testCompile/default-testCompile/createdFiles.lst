@@ -1,0 +1,6 @@
+edu\uoc\epcsd\user\DigitalItemUnitTest.class
+edu\uoc\epcsd\user\domain\service\DigitalSessionServiceUnitTest.class
+edu\uoc\epcsd\user\application\rest\DigitalItemRESTControllerUnitTest.class
+edu\uoc\epcsd\user\application\rest\DigitalItemRESTControllerIntegrationTest.class
+edu\uoc\epcsd\user\UserApplicationTests.class
+edu\uoc\epcsd\user\DigitalItemRepositoryIntegrationTest.class
